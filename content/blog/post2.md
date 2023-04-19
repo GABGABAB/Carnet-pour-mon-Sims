@@ -15,3 +15,25 @@ flowchart TD
 
 
 
+{{% mermaid [class="text-center"]%}}
+stateDiagram-v2
+    State1: Première bulle
+    note right of State1
+        Il est possible de personnaliser les bulles.
+    end note
+    State1 --> State2
+    note left of State2 : C'est la bulle 2.
+{{% /mermaid %}}
+```
+
+<--->
+
+{{% mermaid %}}
+stateDiagram-v2
+    State1: Première bulle
+    note right of State1
+        Il est possible de personnaliser les bulles.
+    end note
+    State1 --> State2
+    note left of State2 : C'est la bulle 2.
+{{% /mermaid %}}
