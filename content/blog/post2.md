@@ -10,16 +10,8 @@ date: 2023-03-28
 ### Toile du monde de mon Sims
 
 
----
-title: Node
----
-flowchart LR
-    id
+flowchart TD
+    A(Identité de mon Sims)-->B(Identité professionnelle)
 
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
 
 
