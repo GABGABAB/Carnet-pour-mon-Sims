@@ -13,5 +13,5 @@ meurt l'envie organique de l'innsippppppppppppppiration  sous les contraintes et
 
 
 
-{{</* button relref="/" [class="..."] */>}}Retour à l'accueil{{</* /button */>}}
-{{</* button href="[https://gabgabab.github.io/Carnet-pour-mon-Sims/]" */>}}Github du thème Book{{</* /button */>}}
+
+{{% button href="https://gabgabab.github.io/Carnet-pour-mon-Sims/" %}}Retour à l'accueil{{% /button %}}
