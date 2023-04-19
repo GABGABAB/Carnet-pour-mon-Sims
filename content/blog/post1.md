@@ -27,7 +27,7 @@ Bin ouiiii je suis affreusement naive et je fais une différence entre faire l'a
 
 
 
-Fragmentée, bref, mon écriture. Des morceaux qui s'éloignent tellement l'un de l'autre dernièrement, qu'il m'est difficile d'en retrouver la trace du sens, indélébile, invisible. 
+Fragmentée, bref, mon écriture. Des morceaux qui s'éloignent tellement l'un de l'autre dernièrement, qu'il m'est difficile d'en retrouver la trace du sens, indélébile, invisible.[^1]
 
 J'essaye de me recoller, de me tirer les membres vers l'intérieur, pour empêcher mes molécules de s'éparpiller juste un peu trop loin et finir atomiser. 
 
@@ -39,3 +39,7 @@ J'écoutais [Hero de Regina Spektor](https://www.youtube.com/watch?v=-g-dlnH3wc8
 
 
 > I'm the hero of the story, don't need to be saved
+
+
+
+[^1]: Le chaos reste toujours concret, les règles qui l'ordonnent sont abstraites. J'ai besoin de vivre à quelque part entre les deux.
