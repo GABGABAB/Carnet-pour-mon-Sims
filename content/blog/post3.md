@@ -21,4 +21,9 @@ meurt l'envie organique de l'innsippppppppppppppiration  sous les contraintes et
 
 
 
+
+
+
 {{% button href="https://gabgabab.github.io/Carnet-pour-mon-Sims/" %}}Retour à l'accueil{{% /button %}}
+
+[^1]: J'ai finalement eu droit a un remboursement pour ma charge défectueuse, entre temps mon ancien ordinateur est décédé, que son âme repose en paix.
