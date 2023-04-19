@@ -14,11 +14,16 @@ J'ai tellement écrit et  si peu en même temps.
 
 Plus le temps a passé et plus mon écriture s'est parsemée, comme diluée dans l'espace qui n'a jamais cessé de s'expandre depuis.
 
-L'espace entre nos corps, pourtant je peux faire l'amour plusieurs fois par jours si je veux - merci Tinder -, c'est juste que j'ai rarement envie.
+L'espace            entre          nos            corps;
+pourtant je peux faire l'amour plusieurs fois par jours si je veux - merci Tinder -, c'est juste que j'ai rarement                  envie.
 
 Non, c'est faux, je ne me souviens plus vraiment de la dernière fois où je  peux dire que j'ai _vraiment_ fait l'amour.
 
-Le sexe, ça va. C'est facile, c'est un _bargain_ des plus triviaux je dirais. Bin ouiiii je suis affreusement quétaine et je fais une différence entre faire faire l'amour et avoir du sexe, baiser quoi. _Call me old fashioned_. 
+Le sexe, ça va. C'est facile, c'est un _bargain_ des plus triviaux je dirais. 
+
+{{% details "Réplique facile" open %}}
+Bin ouiiii je suis affreusement naive et je fais une différence entre faire l'amour et avoir du sexe, baiser quoi. _Call me old fashioned_.
+{{% /details %}} 
 
 
 
