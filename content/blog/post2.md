@@ -14,7 +14,7 @@ flowchart TD
     A(Identité de mon Sims)-->B(Identité professionnelle)
 
 
-{{% mermaid [class="text-center"]%}}
+{{% mermaid %}}
 stateDiagram-v2
     State1: Première bulle
     note right of State1
