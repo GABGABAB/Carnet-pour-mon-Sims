@@ -16,5 +16,9 @@ meurt l'envie organique de l'innsippppppppppppppiration  sous les contraintes et
 [Manifeste Cyborg de Donna Haraway (1991), traduction française de Marie-Hélène Dumas, Charlotte Gould, Nathalie Magnan (2007)](https://hybristheatre.files.wordpress.com/2010/08/manifeste-cyborg.pdf)
 
 
+>L’écriture cyborgienne ne doit pas avoir trait à la chute, à l’idée d’une unité qui aurait existé autrefois, avant le langage, avant l’écriture, avant l’Homme. L’écriture cyborgienne a trait au pouvoir de survivre, non sur la base d’une innocence originelle, mais sur celle d’une appropriation des outils qui vous permettent de marquer un monde qui vous a marqué comme autre. 
+-	Donna Haraway, 1991, Manifeste Cyborg.
+
+
 
 {{% button href="https://gabgabab.github.io/Carnet-pour-mon-Sims/" %}}Retour à l'accueil{{% /button %}}
