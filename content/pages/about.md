@@ -9,4 +9,4 @@ Ce carnet est un le journal intime de mon Sims. Une écriture adapté à un cybo
 
 
 
-[Cliquer ici pour découvrir ce qui m'a permis la création d'un tel journal](/content/pages/credits.md)
+[Cliquer ici pour découvrir ce qui m'a permis la création d'un tel journal](/content/pages/Credits.md)
