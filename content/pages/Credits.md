@@ -6,8 +6,8 @@ date: 2023-03-04
 
 ## Crédits et mentions
 
+Le thème de ce site a été créé à partir du projet [Hugo-Book](https://github.com/alex-shpak/hugo-book).
 
-Ce site a été créé à partir du modèle Book
 Édition : Markdown, Yaml/Toml, HTML, CSS, Go
 Gestion : Github
 Diffusion : Hugo
