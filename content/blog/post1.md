@@ -11,6 +11,8 @@ date: 2023-03-20
 J'ai tellement écrit et  si peu en même temps.
 
 
+![Exhibition de Sims coquins](/themes/book/static/26-02-2023_23-08-51.png)
+
 
 Plus le temps a passé et plus mon écriture s'est parsemée, comme diluée dans l'espace qui n'a jamais cessé de s'expandre depuis.
 
