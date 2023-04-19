@@ -14,8 +14,8 @@ J'ai tellement écrit et  si peu en même temps.
 
 Plus le temps a passé et plus mon écriture s'est parsemée, comme diluée dans l'espace qui n'a jamais cessé de s'expandre depuis.
 
-L'espace            entre          nos            corps;
-pourtant je peux faire l'amour plusieurs fois par jours si je veux - merci Tinder -, c'est juste que j'ai rarement                  envie.
+L'espace entre nos corps;
+pourtant je peux faire l'amour plusieurs fois par jours si je veux - merci Tinder -, c'est juste que j'ai rarement envie.
 
 Non, c'est faux, je ne me souviens plus vraiment de la dernière fois où je  peux dire que j'ai _vraiment_ fait l'amour.
 
@@ -33,3 +33,9 @@ J'essaye de me recoller, de me tirer les membres vers l'intérieur, pour empêch
 
 
 
+
+J'écoutais [Hero de Regina Spektor](https://www.youtube.com/watch?v=-g-dlnH3wc8) quand je me sentais trop séparée de moi-même, quand mes parties étaient toutes si loin d'une l'autre que je pouvais sentir ma peau déchirer, entendre mes tendons se désunir, la main sur le coeur, le coeur sous le talon, le talon dans le cul bien profond, le cul toujours dehors à se brûler les narines par le froid hivernal qui existe toujours même en été quand on est suffisamment triste
+
+
+
+> I'm the hero of the story, don't need to be saved
