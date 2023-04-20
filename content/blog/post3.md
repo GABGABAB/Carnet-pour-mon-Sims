@@ -2,7 +2,8 @@
 
 ---
 title: "Bogue"
-date: 2023-04-15
+date: "2023-04-15"
+author: "Gabrielle Laforge"
 ---
 
 ## Insecte dans le moteur
