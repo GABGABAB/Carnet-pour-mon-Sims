@@ -18,7 +18,8 @@ stateDiagram-v2
     note right of State1
         Identité de genre et sexuelle
     end note
-    State1 --> Identité virtuelle de mon Sims
+    State1 --> State2
+    State2: Identité virtuelle de mon Sims
     note left of State2 : Identité sociale et professionnelle
 {{% /mermaid %}}
 
