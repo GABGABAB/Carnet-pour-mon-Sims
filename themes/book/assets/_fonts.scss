@@ -1,45 +1,45 @@
 /* roboto-regular - latin */
 @font-face {
-  font-family: 'Bebas Neue';
+  font-family: 'Chivo Mono';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
   src: local(''),
-       url('https://github.com/dharmatype/Bebas-Neue.git')
-       url('https://github.com/dharmatype/Bebas-Neue.git')
+       url('https://fonts.googleapis.com/css2?family=Chivo+Mono:wght@200&display=swap')
+       url('https://fonts.googleapis.com/css2?family=Chivo+Mono:wght@200&display=swap')
 }
 /* roboto-700 - latin */
 @font-face {
-  font-family: 'Bebas Neue';
+  font-family: 'Chivo Mono';
   font-style: normal;
   font-weight: 700;
   font-display: swap;
   src: local(''),
-        url('https://github.com/dharmatype/Bebas-Neue.git')
-        url('https://github.com/dharmatype/Bebas-Neue.git')
+       url('https://fonts.googleapis.com/css2?family=Chivo+Mono:wght@200&display=swap')
+       url('https://fonts.googleapis.com/css2?family=Chivo+Mono:wght@200&display=swap')
 }
 
 /*"Helvetica Neue", Helvetica, Arial, */
 
 /* roboto-mono-regular - latin */
 @font-face {
-  font-family: 'Bebas Neue';
+  font-family: 'Chivo Mono';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
   src: local(''),
-       url('https://github.com/dharmatype/Bebas-Neue.git')
-       url('https://github.com/dharmatype/Bebas-Neue.git')
+       url('https://fonts.googleapis.com/css2?family=Chivo+Mono:wght@200&display=swap')
+       url('https://fonts.googleapis.com/css2?family=Chivo+Mono:wght@200&display=swap')
 }
 
 body {
-  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-family:'Chivo Mono', monospace;
 }
 
 h1,h2,h3 {
-  font-family: "Oswald", sans-serif;
+  font-family: "Chivo Mono", monospace;
 }
 
 code {
-  font-family: "Helvetica Neue", Helvetica, Arial;
+  font-family: "Chivo Mono", monospace;
 }
