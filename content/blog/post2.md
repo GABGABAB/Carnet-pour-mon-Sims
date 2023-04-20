@@ -10,17 +10,15 @@ date: 2023-03-28
 ### Toile du monde de mon Sims
 
 
-flowchart TD
-    A(Identité de mon Sims)-->B(Identité professionnelle)
-
+Un diagramme pour essayer de comprendrer le cheminement identitaire et la façon dont les différentes facettes de son identité s'emboitent pour former un récit :
 
 {{% mermaid %}}
 stateDiagram-v2
-    State1: Identité de mon Sims
+    State1: Identité réelle de mon Sims
     note right of State1
         Identité de genre et sexuelle
     end note
-    State1 --> State2
+    State1 --> Identité virtuelle de mon Sims
     note left of State2 : Identité sociale et professionnelle
 {{% /mermaid %}}
 
