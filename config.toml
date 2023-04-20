@@ -9,11 +9,7 @@ theme = "book"
   BookTheme = "light"
   author = "GABGABAB"
   
-  [params.footer]
-        show_site_title = true
-        show_author = true
-        show_copyright = true
-        show_languages = true
+
 
 [outputFormats]
   [outputFormats.print]
@@ -32,7 +28,7 @@ theme = "book"
      footnoteReturnLinkContents = "&uarr;"
       unsafe = true
 
-copyright = "Tous les contenus de ce site sont sous licence CC BY-NC-SA : Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions."
+copyright = "Date Auteur Licence"
 languageCode = "en-us"
 
 [author]
