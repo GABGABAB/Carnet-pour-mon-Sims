@@ -8,7 +8,7 @@ date: 2023-04-15
 ## Insecte dans le moteur
 
 {{% hint danger %}} 
-Difficulté technique : surchauffe du disque dur primaire. Espace de stockage surrempli, corruption d'un nombre important de fichiers.[^1]
+Difficulté technique : surchauffe du disque dur primaire. Espace de stockage surrempli, corruption d'un nombre important de fichiers.[^1] 
 {{% /hint %}}
 
 
