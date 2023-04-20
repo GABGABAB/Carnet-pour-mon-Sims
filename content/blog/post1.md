@@ -16,7 +16,7 @@ Plus le temps a passé et plus mon écriture s'est parsemée, comme diluée dans
 
 L'espace entre nos corps;
 
-![Exhibition de Sims coquins](/simscoquins.png)
+![Exhibition de Sims coquins](/content/simscoquins.png)
 
 pourtant je peux faire l'amour plusieurs fois par jours si je veux - merci Tinder -, c'est juste que j'ai rarement envie.
 
