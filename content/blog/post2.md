@@ -1,7 +1,8 @@
 
 ---
 title: "Un réseau de sens : paradigme"
-date: 2023-03-28
+date: "2023-03-28"
+author: "Gabrielle Laforge"
 ---
 
 ## Un réseau de sens : paradigme
