@@ -16,22 +16,11 @@ flowchart TD
 
 {{% mermaid %}}
 stateDiagram-v2
-    State1: Première bulle
+    State1: Identité de mon Sims
     note right of State1
-        Il est possible de personnaliser les bulles.
+        Identité de genre et sexuelle
     end note
     State1 --> State2
-    note left of State2 : C'est la bulle 2.
+    note left of State2 : Identité sociale et professionnelle
 {{% /mermaid %}}
 
-<--->
-
-{{% mermaid %}}
-stateDiagram-v2
-    State1: Première bulle
-    note right of State1
-        Il est possible de personnaliser les bulles.
-    end note
-    State1 --> State2
-    note left of State2 : C'est la bulle 2.
-{{% /mermaid %}}
