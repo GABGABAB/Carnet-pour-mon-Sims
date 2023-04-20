@@ -1,7 +1,7 @@
 ---
 title: "Faire du sens"
-date: 2023-03-20
-author : Gabrielle Laforge
+date: "2023-03-20"
+author : "Gabrielle Laforge"
 ---
 
 ## Chercher l'ordre du chaos
