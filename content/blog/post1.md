@@ -12,12 +12,12 @@ author : Gabrielle Laforge
 J'ai tellement écrit et  si peu en même temps.
 
 
-![Exhibition de Sims coquins](/themes/book/static/26-02-2023_23-08-51.png)
-
-
 Plus le temps a passé et plus mon écriture s'est parsemée, comme diluée dans l'espace qui n'a jamais cessé de s'expandre depuis.
 
 L'espace entre nos corps;
+
+![Exhibition de Sims coquins](/themes/book/static/26-02-2023_23-08-51.png)
+
 pourtant je peux faire l'amour plusieurs fois par jours si je veux - merci Tinder -, c'est juste que j'ai rarement envie.
 
 Non, c'est faux, je ne me souviens plus vraiment de la dernière fois où je  peux dire que j'ai _vraiment_ fait l'amour.
