@@ -8,7 +8,9 @@ author : "GABGABAB"
 
 > La science ne nous dit pas où nous allons - c’est le rôle de l’art - ; elle nous dit où nous sommes.
 
-
+<br> 
+<br> 
+<br> 
 J'ai tellement écrit et  si peu en même temps.
 
 
@@ -16,6 +18,7 @@ Plus le temps a passé et plus mon écriture s'est parsemée, comme diluée dans
 
 L'espace entre nos corps;
 
+<br> 
 <br> 
 <br> 
 <br> 
