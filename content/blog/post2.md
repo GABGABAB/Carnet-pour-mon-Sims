@@ -2,7 +2,7 @@
 ---
 title: "Un réseau de sens : paradigme"
 date: "2023-03-28"
-author: "Gabrielle Laforge"
+author: "GABGABAB"
 ---
 
 ## Un réseau de sens : paradigme
