@@ -1,5 +1,6 @@
 ---
 title: "Blog"
+author: "GABGABAB"
 blog: "oui"
 ---
 
